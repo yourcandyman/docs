@@ -1,4 +1,4 @@
-{
+{eraseall, --qspieraseall, --program <hex_file> [-- sectorerase | --chiperase | --sectoranduicrerase], --readuicr <path>, --readcode <path>, and --readram <path>
   "/articles/deploying-with-capistrano": "https://github.com/capistrano/capistrano/blob/master/README.md",
   "/capistrano": "https://github.com/capistrano/capistrano/blob/master/README.md",
   "/contact-github": "https://support.github.com/contact",
